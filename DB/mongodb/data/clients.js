@@ -1,4 +1,4 @@
-db.clients.insert([
+db.clients.insertMany([
 	{
 		"CLIENT_ID": "B112", 
 		"NOM": "HANSENNEA", 
